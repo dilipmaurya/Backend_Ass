@@ -1,0 +1,14 @@
+#table2 {
+  border-collapse: collapse;
+  /* margin-left: 550px;
+  margin-right: 100px; */
+  margin: auto;
+}
+.form{
+   text-align: center;
+  width: 60%;
+  margin: auto;
+  border: 2px solid #eee;
+  box-shadow: 0 8px 5px #ccc;
+  padding: 16px;
+}
